@@ -20,6 +20,7 @@
     border-radius: 0.7rem;
     padding:1rem;
     background: linear-gradient(270.00deg, rgb(255, 0, 0) 0%,rgb(255, 137, 56) 100%);
+    cursor: pointer;
 }
 
 p{
@@ -140,3 +141,18 @@ h4{
     
 }
 
+/* meet super client style */
+
+.meet-super-client{
+    background: linear-gradient(270.00deg, rgb(255, 0, 0) 0%,rgb(255, 137, 56) 100%);
+    color: white;
+    padding: 4rem;
+}
+
+.meet-super-client p{
+    color: white;
+}
+.btn-meet{
+    color: white;
+
+}
