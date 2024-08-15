@@ -160,19 +160,44 @@ h4{
 
 .card-container{
     position: relative;
+    
 }
 
 .card-info{
     background: white;
-    border-radius: 12px;
-    padding: 1.5rem;
-    max-width: 300px;
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 0.75rem;
+    padding: 1rem;
+    max-width: 15rem;
+    box-shadow: 0 0.62rem 1.25rem rgba(0, 0, 0, 0.1);
     position:absolute;
-    top: -25rem;
+    top: -27rem;
     right: 6rem;
+    opacity:0.5;
+    
   
 }
+.card-info-1{
+    background: white;
+    border-radius: 0.75rem;
+    padding: 1rem;
+    max-width: 15rem;
+    box-shadow: 0 0.62rem 1.25rem rgba(0, 0, 0, 0.1);
+    margin-bottom: 2rem;
+    position:absolute;
+    bottom: 17rem;
+    right: 6rem;
+    opacity:0.5;
+}
+.card-info-2{
+    background: white;
+    border-radius: 0.75rem;
+    padding: 1rem;
+    max-width: 15rem;
+    box-shadow: 0 0.62rem 1.25rem rgba(0, 0, 0, 0.1);
+    
+
+}
+
 .profile-pic {
     width: 50px;
     height: 50px;
